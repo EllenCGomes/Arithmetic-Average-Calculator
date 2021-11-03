@@ -1,3 +1,9 @@
+Built with: Python
+
+Project Status: Concluded :heavy_check_mark:
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 &nbsp; 🇺🇸 &nbsp; This assignment is part of Coursera's course "[Introduction to Computer Science with Python Part 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) by University of São Paulo" programming assignments
 
 EXERCISE DESCRIPTION: Create a Python program that receives 4 grades, calculate and print the arithmetic average.
